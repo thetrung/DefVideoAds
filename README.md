@@ -14,6 +14,11 @@ Open your game.project file and in the dependencies field under project add:
 
 >https://github.com/AGulev/DefVideoAds/archive/master.zip
 
+Stable version without crashing a lot:
+
+>https://github.com/thetrung/DefVideoAds/archive/3.4.2.zip
+
+
 or point to the ZIP file of a [specific release](https://github.com/AGulev/DefVideoAds/releases).
 
 ## Example
