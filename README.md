@@ -14,7 +14,8 @@ Open your game.project file and in the dependencies field under project add:
 
 >https://github.com/AGulev/DefVideoAds/archive/master.zip
 
-Stable version without crashing a lot:
+* From UnityAds 3.4.8, it require Defold 1.2.174+
+* Stable version without crashing a lot on Defold 1.2.173:
 
 >https://github.com/thetrung/DefVideoAds/archive/3.4.2.zip
 
