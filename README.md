@@ -12,7 +12,7 @@ Extension supported IOS (minimum iOS version is 9.0) and Android.
 You can use the DefVideoAds extension in your own project by adding this project as a [Defold library dependency](http://www.defold.com/manuals/libraries/).
 Open your game.project file and in the dependencies field under project add:
 
->https://github.com/AGulev/DefVideoAds/archive/master.zip
+>https://github.com/thetrung/DefVideoAds/archive/master.zip
 
 * From UnityAds 3.4.8, it require Defold 1.2.174+
 * Stable version without crashing a lot on Defold 1.2.173:
